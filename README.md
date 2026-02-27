@@ -18,6 +18,8 @@ npm install
 npm run dev
 ```
 
+**Live Demo:** You can play the game online at [http://paperrockscissors.cantoncoders.org/](http://paperrockscissors.cantoncoders.org/)
+
 ## Testing
 
 ```bash
